@@ -1,0 +1,28 @@
+body{
+    background: #323643;
+}
+
+.nav-link{
+    display: inline-block;
+    background: #4fb783;
+    padding: 1% 10.42%;
+    text-decoration:none;
+    color: #ffe2e2;
+}
+.nav-link:hover{
+    background: #409d9b;
+}
+header{
+    margin: 0.5% 2%;
+    background: #606470;
+    padding: 5% 40%;
+}
+
+.nav-style{
+    margin: 0.2%;
+}
+div{
+    margin: 1% 1%;
+    background: #3c6562;
+    padding: 0.2% 0%;
+}
